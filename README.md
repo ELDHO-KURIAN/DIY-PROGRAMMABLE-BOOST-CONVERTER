@@ -17,7 +17,7 @@ This boost converter lets you convert a lower dc voltage to a higher dc voltage 
 
 # INDUCTOR
  ```
- inductor is a blue-greea toroid with 40 turns of 1mm(19 guuge) enamel copper wire
+ inductor is a blue-greea toroid with 30 turns of 1mm(19 guuge) enamel copper wire
   ```
 # CALCULATIONS 
 https://www.youtube.com/watch?v=CzhqLeyGNf0&t=268s
